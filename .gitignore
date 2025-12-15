@@ -1,0 +1,61 @@
+
+# Maven build folder
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
+
+# Environment / sensitive files
+.env
+*.env
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse / STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+dist/
+*.tgz
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Editor directories
+.vscode/
+
+# Help / docs
+HELP.md
+
+# IDE specific temp files
+*.swp
+*.swo
