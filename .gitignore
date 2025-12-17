@@ -7,7 +7,7 @@ target/
 *.log
 logs/
 
-# Environment / sensitive files
+# Environment
 .env
 *.env
 
@@ -59,3 +59,7 @@ HELP.md
 # IDE specific temp files
 *.swp
 *.swo
+
+# Spring Boot properties
+/src/main/resources/application.properties
+
