@@ -24,7 +24,7 @@ import java.util.List;
         }
 
         public Product createProduct(Product product) {
-
+            product.setId(null);
             return productRepository.save(product);
         }
 
