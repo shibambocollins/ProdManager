@@ -28,6 +28,7 @@ API will run at http://localhost:8081/api/products
 ##  4. Notes
 This project is for learning purposes.
 Use it with the frontend to test the full application: https://github.com/shibambocollins/prod-manager-frontend
+<img width="907" height="758" alt="image" src="https://github.com/user-attachments/assets/00a915f6-a272-4723-9e28-f2f0decf4b9d" />
 
 
 
